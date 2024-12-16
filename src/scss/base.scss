@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Open Sans";
+    src: local("Open Sans") url(fonts/OpenSans-Regular.ttf) format('truetype');
+}
+body {font-family: "Open Sans" ;}
+.btn {padding: var(--secpad) var(--mainpad);}
+h1 {font-size: var(--fsheadline);}
